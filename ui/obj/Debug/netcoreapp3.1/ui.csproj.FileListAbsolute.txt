@@ -1,0 +1,13 @@
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.exe
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.deps.json
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.runtimeconfig.json
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.runtimeconfig.dev.json
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.dll
+C:\Users\galin\source\repos\ui\ui\bin\Debug\netcoreapp3.1\ui.pdb
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.AssemblyInfoInputs.cache
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.AssemblyInfo.cs
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.dll
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.pdb
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.genruntimeconfig.cache
+C:\Users\galin\source\repos\ui\ui\obj\Debug\netcoreapp3.1\ui.csprojAssemblyReference.cache
